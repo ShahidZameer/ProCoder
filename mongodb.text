@@ -1,0 +1,13 @@
+insert many rows
+db.comment.insertMany([{
+      'name':'clark',
+      'language2:'css',
+       'years':5
+    },
+     {
+      'name':'clark',
+      'language2:'css',
+       'years':5
+    
+}
+])
